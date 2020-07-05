@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Pradipta Ghosh
 
 # Username (this should match the folder name)
 authors:
@@ -10,33 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Post-Doctoral Research Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Southern California
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Internet of Things, biquitious Computing and Automation & Robotics.
 
 interests:
+- Internet of Things
+- Ubiquitious Computing
+- Automation & Robotics
+- Wireless Robotic Networks
+- NetworkedSystems
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Computer Engineering
+    institution: Viterbi School of Engineering, University of Southern California
+    year: 2018
+  - course: Bachelors in Electronics and Tele-Communication Engineering
+    institution: Jadavpur University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,21 +44,29 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:pradiptg@usc.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Pradipt98215609
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8_sGkzMAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/iampradiptaghosh
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Pradipta_Ghosh6
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3090816/pradipta-ghosh/
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pradipta is a Post Doctoral Research Scholar in the USC Viterbi Department of Computer Science at the University of Southern California.
+He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department of Electrical Engineering at the University of Southern California in Aug 2018. He is an MHI Institute Scholar and a USC Provost Fellow. His current research interests are in the areas of Cyber-Physical Systems, Wireless Sensor Networks, Wireless Robotics Networks, Vehicular Networks and Cloud Computing. Pradipta recieved Electrical and Computer Engineering Best Dissertation Award. He is also a member of IEEE and ACM research communities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Pradipta completed his Bachelor of Engineering in Electronics and Tele-Communication Engineering in 2012, from Jadavpur University, Kolkata, India. His undergraduate research was recognized by UGC Infrastructure Grant for Undergraduate Research.
