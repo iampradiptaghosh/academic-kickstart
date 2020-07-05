@@ -25,7 +25,7 @@ interests:
 - Ubiquitious Computing
 - Automation & Robotics
 - Wireless Robotic Networks
-- NetworkedSystems
+- Networked Systems
 - Artificial Intelligence
 
 education:
