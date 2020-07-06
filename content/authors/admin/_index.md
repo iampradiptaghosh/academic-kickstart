@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Internet of Things, biquitious Computing and Automation & Robotics.
+bio: My research interests include Internet of Things, Ubiquitious Computing, Automation & Robotics, and Networked Systems.
 
 interests:
 - Internet of Things
