@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Internet of Things, Ubiquitious Computing, Automation & Robotics, and Networked Systems.
+bio: My research interests include Internet of Things, Ubiquitious Computing, Automation & Robotics, Networked Systems, and Compute Vision.
 
 interests:
 - Internet of Things
@@ -27,6 +27,7 @@ interests:
 - Wireless Robotic Networks
 - Networked Systems
 - Artificial Intelligence
+- Computer Vision
 
 education:
   courses:
@@ -45,9 +46,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:pradiptg@usc.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Pradipt98215609
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=8_sGkzMAAAAJ&hl=en&authuser=1
@@ -59,6 +57,9 @@ social:
   link: https://www.researchgate.net/profile/Pradipta_Ghosh6
 - icon: publons
   icon_pack: ai
+  link: https://publons.com/researcher/3090816/pradipta-ghosh/
+- icon: linkedin
+  icon_pack: fab
   link: https://publons.com/researcher/3090816/pradipta-ghosh/
 
 
