@@ -60,7 +60,7 @@ social:
   link: https://publons.com/researcher/3090816/pradipta-ghosh/
 - icon: linkedin
   icon_pack: fab
-  link: https://publons.com/researcher/3090816/pradipta-ghosh/
+  link: https://www.linkedin.com/in/pradipta-ghosh-38281287/
 
 
 # Link to a PDF of your resume/CV from the About widget.
