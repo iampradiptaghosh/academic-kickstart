@@ -6,7 +6,7 @@ authors: ["Saurabh Bagchi", "Tarek F Abdelzaher", "Ramesh Govindan", "Prashant S
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*IEEE Internet of Things Journal (Accepted)*"
+publication: "*IEEE Internet of Things Journal* 7 (12), 11330-11346"
 abstract: "The field of IoT has blossomed and is positively influencing many application domains. In this paper, we bring out the unique challenges this field poses to research in computer systems and networking. The unique challenges arise from the unique characteristics of IoT systems such as the diversity of application domains where they are used and the increasingly demanding protocols they are being called upon to run (such as, video and LIDAR processing) on constrained resources (on-node and network). We show how these open challenges can benefit from foundations laid in other areas, such as, 5G cellular protocols, ML model reduction, and device-edge-cloud offloading. We then discuss the unique challenges for reliability, security, and privacy posed by IoT systems due to their salient characteristics which include heterogeneity of devices and protocols, dependence on the physical environment, and the close coupling with humans. We again show how the open research challenges benefit from reliability, security, and privacy advancements in other areas. We conclude by providing a vision for a desirable end state for IoT systems."
 # Summary. An optional shortened abstract.
 summary: ""

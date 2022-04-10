@@ -18,12 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Scientist (Optimization)"
+  company = "Meta Inc."
+  company_url = ""
+  location = "California"
+  date_start = "2020-01-04"
+  date_end = ""
+  description = """Part of the Edge Optimization team to tackle large scale problems related Capacity Planning, Edge Cloud, Real Time Anomaly Detection and RootCausing. 
+  """
+
+[[experience]]
   title = "Post Doctoral Research Scholar"
   company = "University of Southern California"
   company_url = ""
   location = "California"
   date_start = "2018-08-01"
-  date_end = ""
+  date_end = "2020-01-03"
   description = """Worked on three different research projects: (a) Sensing smart city resources (e.g., public cameras) (b) goal-driven rapid network synthesis, and  (c) Cross camera activity detection
   """
 
