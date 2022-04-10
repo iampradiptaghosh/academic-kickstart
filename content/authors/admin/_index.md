@@ -10,18 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-Doctoral Research Scholar
+role: Research Scientist (Optimization)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Southern California
+- name: Meta Inc
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Internet of Things, Ubiquitious Computing, Automation & Robotics, Networked Systems, and Compute Vision.
+bio: My research interests include Content Distribution Network, Internet of Things, Ubiquitious Computing, Automation & Robotics, Networked Systems, and Compute Vision.
 
 interests:
 - Internet of Things
+- Content Distribution Network
 - Ubiquitious Computing
 - Automation & Robotics
 - Wireless Robotic Networks
@@ -48,7 +49,7 @@ social:
   link: mailto:pradiptg@usc.edu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=8_sGkzMAAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?user=nDjzanEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/iampradiptaghosh
@@ -79,7 +80,7 @@ user_groups:
 - Visitors
 ---
 
-Pradipta is a Post Doctoral Research Scholar in the USC Viterbi Department of Computer Science at the University of Southern California.
+Pradipta is currently a Optimization Reaseach Scientist at the Edge Optimization Team of Meta Inc. Prior to that he was a Post Doctoral Research Scholar in the USC Viterbi Department of Computer Science at the University of Southern California.
 He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department of Electrical Engineering at the University of Southern California in Aug 2018. He is an MHI Institute Scholar and a USC Provost Fellow. His current research interests are in the areas of Cyber-Physical Systems, Wireless Sensor Networks, Wireless Robotics Networks, Vehicular Networks and Cloud Computing. Pradipta recieved Electrical and Computer Engineering Best Dissertation Award. He is also a member of IEEE and ACM research communities.
 
 Pradipta completed his Bachelor of Engineering in Electronics and Tele-Communication Engineering in 2012, from Jadavpur University, Kolkata, India. His undergraduate research was recognized by UGC Infrastructure Grant for Undergraduate Research.
